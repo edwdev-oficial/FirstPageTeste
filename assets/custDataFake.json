@@ -1,0 +1,101 @@
+[
+  {
+    "Nome": "João Silva",
+    "Endereço": "Rua das Flores",
+    "nº": "123",
+    "Bairro": "Centro",
+    "CEP": "12345-678",
+    "Cidade": "São Paulo",
+    "UF": "SP"
+  },
+  {
+    "Nome": "Maria Santos",
+    "Endereço": "Avenida Brasil",
+    "nº": "456",
+    "Complemento": "Proximo ao Corpo de Bombeiros",
+    "Bairro": "Jardim Botânico",
+    "CEP": "54321-987",
+    "Cidade": "Rio de Janeiro",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "José Oliveira",
+    "Endereço": "Rua do Comércio",
+    "nº": "789",
+    "Complemento": "Resid Phytus Lote A 18",
+    "Bairro": "Centro",
+    "CEP": "98765-432",
+    "Cidade": "Porto Alegre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ana Pereira",
+    "Endereço": "Avenida Paulista",
+    "nº": "1011",
+    "Complemento": "Centro comercial 18º andar Conj 1815",
+    "Bairro": "Jardins",
+    "CEP": "13579-246",
+    "Cidade": "São Paulo",
+    "UF": "SP"
+  },
+  {
+    "Nome": "Carlos Ferreira",
+    "Endereço": "Rua do Sol",
+    "nº": "1315",
+    "Complemento": "Bloco 3 apto 114",
+    "Bairro": "Vila Nova",
+    "CEP": "24680-135",
+    "Cidade": "Curitiba",
+    "UF": "PR"
+  },
+  {
+    "Nome": "Amanda Gomes",
+    "Endereço": "Rua das Árvores",
+    "nº": "1719",
+    "Bairro": "Parque Industrial",
+    "Complemento": "Gleba 18",
+    "CEP": "98765-432",
+    "Cidade": "Campinas",
+    "UF": "SP"
+  },
+  {
+    "Nome": "Lucas Martins",
+    "Endereço": "Avenida das Palmeiras",
+    "nº": "2022",
+    "Complemento": "Resid das Amércias Bloco 1 apto 320",
+    "Bairro": "Jardim das Flores",
+    "CEP": "34567-890",
+    "Cidade": "Belo Horizonte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fernanda Lima",
+    "Endereço": "Rua da Paz",
+    "nº": "2224",
+    "Complemento": "Bloco B apto 715",
+    "Bairro": "Centro",
+    "CEP": "76543-210",
+    "Cidade": "Salvador",
+    "UF": "BA"
+  },
+  {
+    "Nome": "Pedro Almeida",
+    "Endereço": "Avenida dos Girassóis",
+    "nº": "2527",
+    "Complemento": "Apto 320",
+    "Bairro": "Parque das Flores",
+    "CEP": "54321-098",
+    "Cidade": "Recife",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Mariana Rocha",
+    "Endereço": "Rua das Pedras",
+    "nº": "2829",
+    "Complemento": "Centro comercial",
+    "Bairro": "Centro",
+    "CEP": "98765-321",
+    "Cidade": "Fortaleza",
+    "UF": "CE"
+  }
+]
